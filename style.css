@@ -1,0 +1,73 @@
+.container{
+  width:100%;
+
+  display: flex;
+  justify-content: center;
+  padding: 70px;
+  justify-content: space-evenly;
+
+  
+  
+}
+
+
+.card{
+  text-align: center;
+  height: 350px;
+  width: 300px;
+  border:solid;
+}
+.card1{
+  text-align: center;
+  height: 350px;
+  width: 300px;
+  border:solid;
+background-color: pink;}
+  
+  
+  .card2{
+    text-align: center;
+    height: 350px;
+    width: 300px;
+    border:solid;}
+    
+   
+ 
+
+
+
+.fa-twitter{
+  font-size: 30px;
+  margin-top:10px;
+}
+.buton{
+  border-radius: 15px;
+  background-color: black;
+  color: aliceblue;
+}
+.buton2{
+  border-radius: 15px;
+  background-color:white;
+  color: black;
+  
+
+}
+.fa-instagram{
+  font-size: 30px;
+  margin-top:10px;
+}
+
+.fa-whatsapp{
+  font-size: 30px;
+  margin-top:10px;
+}
+.buton:hover{
+  background-color: aqua;
+  color:black
+}
+.buton2:hover{
+  background-color: aqua;
+  color:black
+}
+
+
